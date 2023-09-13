@@ -3,3 +3,5 @@
 ### Test Header 3
 
 Test creation header...
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
